@@ -1,0 +1,77 @@
+{ 
+  "foods": [
+       {
+        "_id": "food1",
+        "image": "./images/momo.jpg",
+        "name": "MOMO",
+        "description": " momos are dumplings made with flour and a savory stuffing. This stuffing can be made with veggies, sea-food, chicken or paneer (cottage cheese) .",
+        "availabletypes": ["Non-veg", "Vegan"],
+        "price": 5.9
+      },
+     {
+        "_id": "food2",
+        "image": "/images/octopus.jpg",
+        "name": "Octopus",
+        "description": "Octopus boiled with nepalese spices and coated with tandoori masala and baked.",
+        "availabletypes": ["Non-veg"],
+        "price": 10.0
+      },
+      {
+        "_id": "food3",
+        "image": "/images/raita.jpg",
+        "name":"Raita",
+        "description": "it is the spised curd with some vehetables.",
+        "availabletypes": "Vegan",
+        "price": 15.0
+      },
+      {
+        "_id": "food4",
+        "image": "/images/vakka.jpg",
+        "name": "Vakka",
+        "description": " it is steames rice floor, served with vegetable and chatni. ",
+        "availabletypes": "Vegan",
+        "price": 20.0
+      },
+      {
+        "_id": "food6",
+        "image": "/images/sekuwa.jpg",
+        "name": "sekauwa",
+        "description": " grilled chicken, goat meat , pork, buff along with some puffed rice. ",
+        "availabletypes": ["Non-veg"],
+        "price": 25.0
+      },
+      {
+        "_id": "food7",
+        "image":"/images/choila.jpg",
+        "name": "choila",
+        "description": " it is leamony grilled meat with some spices ",
+        "availabletypes": ["Non-veg"],
+        "price": 30.0
+      },
+      {
+        "_id": "food8",
+        "image":"/images/chaptate.jpg",
+        "name": "chatpate",
+        "description": " nepalese spicy street food which is very spicy full of clilly and leamon ",
+        "availabletypes": "Vegan",
+        "price": 17.0
+      },
+      {
+        "_id": "food9",
+        "image":"/images/okra.jpg",
+        "name": "okra",
+        "description": " it is vegetable with some cheese ",
+        "availabletypes": ["Non-Veg", "Vegan"],
+        "price": 12.0
+      },
+      {
+        "_id": "food10",
+        "image":"/images/pakauda.jpg",
+        "name": "pakauda",
+        "description": " deep fried vegetable in pea flour, served with spicy chatni ",
+        "availabletypes": "Vegan",
+        "price": 7.0
+      }
+
+    ]
+}
